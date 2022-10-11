@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registrasi Mahasiswa</string>
+    <string-array name="nama_Prodi">
+        <item>Mobile Development</item>
+        <item>Desain Grafis</item>
+        <item>Metode Penelitian</item>
+        <item>Pemrograman Web2</item>
+        <item>Jaringan Komputer</item>
+        <item>Management Resiko</item>
+    </string-array>
+</resources>
